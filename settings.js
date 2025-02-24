@@ -1,9 +1,9 @@
 const settings = {
-  packname: 'Knight',
+  packname: 'Jay',
   author: 'Bot',
-  botName: "Graciano Bot",
-  botOwner: 'Graciano', // Your name
-  ownerNumber: '+234 810 806 7660', //Your number
+  botName: "Jay Bot",
+  botOwner: 'Jay$$$', // Your name
+  ownerNumber: '+2349018541341', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
